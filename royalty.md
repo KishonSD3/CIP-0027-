@@ -1,8 +1,3 @@
- &quot;royaltiesQuaternaryOwner&quot;: Friendly name of fourth royalties party (optional)
- &quot;royaltiesQuaternaryPercent&quot;: Percentage of royalties distribution for the fourth party (optional)
- &quot;royaltiesQuaternaryWallet&quot;: Wallet address to forward royalties to fourth party (optional)
-
-
 ## Example JSON
 
 Onchain
